@@ -26,8 +26,11 @@ export default function Home() {
                         <HeroNext />
                     </div>
                     {/* <HeroNext /> */}
-                    <div className="bg-gradient-to-b from-[#100828] to-[#151C38]">
-                        <div className="px-4 md:px-0 text-xl space-y-8 text-center max-w-4xl mx-auto py-12">
+                    <div className="bg-gradient-to-b from-[#100828] to-[#151C38] py-16">
+                        <h1 className="text-center text-5xl font font-semibold mb-8">
+                            Banyan Bazaar
+                        </h1>
+                        <div className="px-4 md:px-8 text-xl space-y-8 text-center max-w-4xl mx-auto">
                             <p>
                                 Introducing ChainDeck&apos;s Banyan Bazaar, a
                                 user-friendly decentralized data marketplace
