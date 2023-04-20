@@ -34,7 +34,7 @@ export default function HeroNext() {
 
             <div>
                 <Image
-                    src={"/assets/bg/tree-bg.png"}
+                    src={"/assets/bg/tree-cut.png"}
                     height={2000}
                     width={2000}
                     className=""
