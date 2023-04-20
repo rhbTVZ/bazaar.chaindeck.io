@@ -26,7 +26,7 @@ export default function ContactUsModal({ setModalOn }) {
                             className="min-w-[320px]"
                             name="contact"
                             method="POST"
-                            action="/?success=true"
+                            // action="/?success=true"
                             data-netlify="true"
                             data-netlify-honeypot="bot-field"
                         >
